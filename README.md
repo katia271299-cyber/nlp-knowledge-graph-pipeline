@@ -15,6 +15,6 @@ et entités nommées.
 
 ## Technologies
 Python, feedparser, spaCy, NLTK, sumy
-
+lien collab avec évolution ( début avee forùat RDF ) : https://colab.research.google.com/drive/1wp6RJGc2Fg7XKioOYxi-lphkagmRS1qx#scrollTo=7u956pIwA4KF
 ## Exécution
 Ouvrir le notebook `rss_nlp_pipeline.ipynb` et exécuter les cellules dans l'ordre.
